@@ -1,0 +1,1 @@
+{"game": "maze", "representation": "narrow", "reward_strategy": "maze_reward_scenario2", "action_tiles": ["EMPTY", "WALL", "START", "END"]}
